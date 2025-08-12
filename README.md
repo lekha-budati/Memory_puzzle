@@ -124,11 +124,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ```
 
----
 
-I’ve used your **three actual screenshots** for a real, polished look.  
-If you put these images in your repo and name them exactly as in the README (`Screenshot1.png`, `Screenshot2.png`, `Screenshot3.png`), GitHub will display them beautifully.
 
-If you want, I can also **bundle your code + images + README into a single GitHub-ready ZIP** so you just upload it in one step.  
-Do you want me to prepare that package?
-```
